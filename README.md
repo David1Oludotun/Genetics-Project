@@ -2,6 +2,7 @@
 This Python program predicts the allele combinations formed when crossing gene traits of two parents, whether for monohybrid or dihybrid crosses. The program helps to understand dominant, recessive, homozygous, and heterozygous traits and their possible gene combinations based on user input.
 
 **Features**
+
 Monohybrid Cross: For crosses involving a single trait.
 Dihybrid Cross: For crosses involving two traits.
 Predicts allele combinations based on user-provided genotype information.
@@ -18,11 +19,14 @@ Trait names (and optionally, their symbols).
 Whether the trait follows conventional naming methods.
 Whether the trait is homozygous or heterozygous.
 Whether it is dominant or recessive.
+
 Monohybrid Cross:
+
 
 Input gene symbols for two parent traits.
 The program will output possible allele combinations in a Punnett square format.
 Dihybrid Cross:
+
 
 Provide genotypes for two traits of both parents.
 The program will compute and display 16 possible combinations (Punnett square) of the dihybrid cross.
