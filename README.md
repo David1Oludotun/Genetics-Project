@@ -32,6 +32,9 @@ Provide genotypes for two traits of both parents.
 The program will compute and display 16 possible combinations (Punnett square) of the dihybrid cross.
 Code Breakdown
 di_arrangement(x, y): Function to determine the correct order of alleles in a gene pair based on alphabetical order.
+
 User Inputs: The program prompts for traits, dominance, and zygosity to determine parent genotypes.
+
 Monohybrid Crossing: Computes 4 possible gene combinations using Punnett square logic.
+
 Dihybrid Crossing: Computes 16 possible gene combinations by combining the two traits from each parent.
